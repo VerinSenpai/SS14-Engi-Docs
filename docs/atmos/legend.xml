@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" scale="3" border="20" version="26.0.10">
+  <diagram name="Page-1" id="m_UrMUzxl2RRerYg1Oty">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nDb3nE1oQBlQNMGahTlH-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Legend&lt;/h1&gt;&lt;p&gt;A general, basically not consistent, legend for understanding the graphs I (ArtisticRoomba) make.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nDb3nE1oQBlQNMGahTlH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nDb3nE1oQBlQNMGahTlH-7" target="nDb3nE1oQBlQNMGahTlH-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nDb3nE1oQBlQNMGahTlH-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Gas&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Source 1&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nDb3nE1oQBlQNMGahTlH-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Gas&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Source 2&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="80" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nDb3nE1oQBlQNMGahTlH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nDb3nE1oQBlQNMGahTlH-4" target="nDb3nE1oQBlQNMGahTlH-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="640" as="sourcePoint" />
+            <mxPoint x="260" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nDb3nE1oQBlQNMGahTlH-7" value="S1 Mix %" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="630" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nDb3nE1oQBlQNMGahTlH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nDb3nE1oQBlQNMGahTlH-9" target="nDb3nE1oQBlQNMGahTlH-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nDb3nE1oQBlQNMGahTlH-9" value="S2 Mix %" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nDb3nE1oQBlQNMGahTlH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERmany;startFill=0;" parent="1" source="nDb3nE1oQBlQNMGahTlH-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="640.1428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nDb3nE1oQBlQNMGahTlH-10" value="Gas Mixer" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="605" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nDb3nE1oQBlQNMGahTlH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nDb3nE1oQBlQNMGahTlH-5" target="nDb3nE1oQBlQNMGahTlH-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nDb3nE1oQBlQNMGahTlH-12" value="[x] kPa OUT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="650" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="160" as="sourcePoint" />
+            <mxPoint x="200" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Implied/Forced Flow&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;A line designating the path gas is supposed to take. This is usually encouraged by a pump doing work in the gas either downstream or upstream.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="170" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-10" value="" style="endArrow=none;html=1;rounded=0;startFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="160" as="sourcePoint" />
+            <mxPoint x="430" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;General Connection&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;A general line designating no forced flow. This is usually for things that are OK to have alternating directions of flow, like gas expansion tanks.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="270" y="170" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-12" value="" style="endArrow=none;html=1;rounded=0;startFill=0;endFill=0;startArrow=ERmany;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="160" as="sourcePoint" />
+            <mxPoint x="660" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Mixer/Radiator/Filter Output&lt;/span&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;A wireframe arrow (not filled) designates output from a gas mixer or implied output from a radiator. On a filter, this designates the return side of the filter (all of the other gasses).&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="500" y="170" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-14" value="" style="endArrow=none;html=1;rounded=0;startFill=0;endFill=0;startArrow=ERoneToMany;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="160" as="sourcePoint" />
+            <mxPoint x="890" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Filter Primary Output&lt;/span&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;A wireframe arrow with a vertical line designates a filter&#39;s target output (which gas we&#39;re explicitly filtering).&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="730" y="170" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Junction&lt;/span&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;A general junction to designate multiple connections to a single point, because draw.io hates me. Arrows will designate implied flow.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="960" y="170" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1055.81" y="155.99999999999994" width="8.38" height="8.38" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="psoES6DEDdcJQtd3qCGB-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="160" as="sourcePoint" />
+            <mxPoint x="1030" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="psoES6DEDdcJQtd3qCGB-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="160.07999999999998" as="sourcePoint" />
+            <mxPoint x="1120" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="psoES6DEDdcJQtd3qCGB-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1074" y="170" as="sourcePoint" />
+            <mxPoint x="1060" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-23" value="" style="endArrow=none;html=1;rounded=0;startFill=0;endFill=0;startArrow=none;dashed=1;dashPattern=1 1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="160" as="sourcePoint" />
+            <mxPoint x="1350" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Comment Line&lt;/span&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;A line that usually points to a key area of a design to describe operating procedures.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="170" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-26" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Pumps&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Pumps, which force gas and usually induce/force flow. There is no different shape to designate whether the pump is a volumetric or pressure pump, rather the pump setting will either be listed in kPa or L/S.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="50" y="395" width="200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-27" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.5405405405405493;arrowSize=0.4416216216216208;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="85.50000000000006" y="338" width="30" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-28" value="350 kPa" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="75.5" y="344" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-29" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.5405405405405493;arrowSize=0.4416216216216208;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="185.50000000000006" y="338" width="30" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-30" value="200L/s" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="180.00000000000006" y="344" width="41" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Gas Canisters&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Designates where a tank connects to the system. A pump will indicate whether the tank is used to fill the system or if it acts as an expansion tank.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="280" y="395" width="200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-36" value="Connected&lt;div&gt;Expansion Tank&lt;div&gt;(Plasma Tank)&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;flipV=1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="313.13" y="335" width="133.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-38" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Radiators&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Designates a standard radiator, and what it&#39;s exposed to if necessary. The curvature of the radiator might be stated in the title, but usually if a radiator is curved an implied flow marker will point at the input side.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="510" y="395" width="200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-40" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Radiator exposed to scaffold-space&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="558.5" y="340" width="103" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-41" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Pneumatic Valve&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Designates a pneumatic valve. The arrow on the shape designates control pressure input, and the sharp sides of the shape designate input/output. Labels will often be used to show which side is which.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="740" y="395" width="200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-43" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="829.88" y="333" width="20.25" height="18.75" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-44" value="Pneumatic&lt;div&gt;Valve&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="794.8599999999999" y="340" width="90.29" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-45" value="Filter [1]" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="325" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-46" value="300L/s" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1034" y="385" width="72" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="psoES6DEDdcJQtd3qCGB-45" target="psoES6DEDdcJQtd3qCGB-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1073" y="325" as="sourcePoint" />
+            <mxPoint x="1073" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-48" value="Frezon OUT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1034" y="325" width="72" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Filter&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Designates a filter. Boxes will be used to tell you what pump rate the filter is set to, and what gas to filter out as well.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="970" y="395" width="200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;startFill=0;" parent="1" source="psoES6DEDdcJQtd3qCGB-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-52" value="Freezer&lt;div&gt;73.15K&lt;/div&gt;" style="shape=display;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1245" y="335" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-57" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Thermomachine&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Designates a pipenet thermomachine. The box will tell you what the machine is set to, as well as the temperature. The point is used to show where the interface pipe of the machine is.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="395" width="200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-59" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Mixing Setup&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Designates a standard mixing setup, which intakes from gas miners and outputs a mixture.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="130" y="790" width="200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-71" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="1" vertex="1">
+          <mxGeometry x="460" y="570" width="210.79" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-72" value="STACKED CHAMBER" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="483.82000000000005" y="780" width="163.16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-73" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="710" y="580" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-74" value="LAYER 1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="728.42" y="780" width="163.16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-75" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="940" y="580" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-76" value="LAYER 2" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="958.4200000000001" y="780" width="163.16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="psoES6DEDdcJQtd3qCGB-77" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Stacked Chambers&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Designates a stacked chamber, wherein multiple devices reside in one tile or area. Layers are supposed to be constructed from lowest to highest.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="710" y="800" width="200" height="145" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
